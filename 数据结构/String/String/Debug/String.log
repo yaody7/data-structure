@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\代码\数据结构\string\string\main.cpp(74): warning C4018: “<”: 有符号/无符号不匹配
+  String.vcxproj -> D:\代码\数据结构\String\Debug\String.exe
